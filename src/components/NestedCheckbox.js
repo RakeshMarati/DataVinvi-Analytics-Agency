@@ -283,16 +283,6 @@ const NestedCheckbox = () => {
             </div>
           </div>
         </div>
-
-        <div className="testing-instructions">
-          <h3>Testing Instructions:</h3>
-          <ol>
-            <li><strong>Select All Test:</strong> Click "Select All" → All checkboxes should be checked</li>
-            <li><strong>Category Test:</strong> Click "Fruits" → All fruits should be checked</li>
-            <li><strong>Indeterminate Test:</strong> Check some fruits → "Fruits" should show ⚠️</li>
-            <li><strong>Child Update Test:</strong> Check individual items → Parent state should update</li>
-          </ol>
-        </div>
       </div>
     </section>
   );
