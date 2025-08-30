@@ -1,6 +1,6 @@
 .checkbox-section {
   padding: 5rem 0;
-  background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 }
 
 .checkbox-container {
@@ -12,7 +12,7 @@
 .checkbox-container h2 {
   text-align: center;
   font-size: 2.5rem;
-  color: #2d3748;
+  color: white;
   margin-bottom: 1rem;
   font-weight: 700;
 }
@@ -20,7 +20,7 @@
 .checkbox-container > p {
   text-align: center;
   font-size: 1.1rem;
-  color: #718096;
+  color: rgba(255, 255, 255, 0.9);
   margin-bottom: 3rem;
   line-height: 1.6;
 }
